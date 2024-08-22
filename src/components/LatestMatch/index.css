@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.latest-match-container {
+  margin-top: 25px;
+}
+.match-heading {
+  font-size: 18px;
+  display: block;
+  color: #ffffff;
+}
+.match-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+  border-radius: 12px;
+  padding: 15px;
+}
+.match-details-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px;
+}
+.match-details-1 {
+  width: 75%;
+}
+.match-team-name {
+  font-size: 20px;
+  color: #ffffff;
+}
+.match-date {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.match-details {
+  font-size: 12px;
+  color: #ffffff;
+}
+.match-team-logo {
+  max-height: 60px;
+}
+.separator {
+  border: 1px solid #475569;
+  width: 100%;
+}
+.match-details-2 {
+  width: 100%;
+  padding: 15px;
+}
+.match-details-label {
+  font-size: 15px;
+  color: #ffffff;
+}
+.match-details-value {
+  font-size: 12px;
+  color: #ffffff;
+}
